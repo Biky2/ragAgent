@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+myenv/
+venv/
+
+# VS Code
+.vscode/
+
+.env
+
+# FAISS store / large data
+faiss_store/
+*.index
+*.bin
